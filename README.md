@@ -11,3 +11,5 @@ This program is a Basic Calculator
 
 - The code was created in Python.
 - In the "Program exe" folder there is an executable "Calculator.exe" which is the program ready to run, you do not need to install anything to use it
+
+
