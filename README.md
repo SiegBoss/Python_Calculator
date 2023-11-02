@@ -1,15 +1,31 @@
-# Calculadora
-Este programa es una Calculadora Basica
+# Calculadora Básica en Python
 
-- El código fue creado en Python.
-- En la carpeta "Programa exe" hay un ejecutable "Calculator.exe" que es el programa listo para ejecutarse, no necesitas instalar nada para usarlo
+Este proyecto es un programa realizado en Python que implementa una calculadora básica con una interfaz de usuario.
+
+## Características
+- Operaciones básicas: La calculadora puede realizar operaciones básicas como suma, resta, multiplicación y división.
+- Interfaz de usuario: El programa cuenta con una interfaz de usuario para facilitar la interacción.
+
+## Herramientas de Desarrollo
+- Lenguaje de programación: Python
+  
+## Archivos del Proyecto
+- Código fuente: Incluye todos los archivos .py utilizados en este proyecto.
 
 -----------------------------------------
 
-# Calculator
-This program is a Basic Calculator
+# Basic calculator in Python
 
-- The code was created in Python.
-- In the "Program exe" folder there is an executable "Calculator.exe" which is the program ready to run, you do not need to install anything to use it
+This project is a program made in Python that implements a basic calculator with a user interface.
+
+## Characteristics
+- Basic operations: The calculator can perform basic operations such as addition, subtraction, multiplication and division.
+- User interface: The program has a user interface to facilitate interaction.
+
+## Development tools
+- Programming language: Python
+  
+## Project files
+- Source code: includes all .py files used in this project.
 
 
