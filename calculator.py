@@ -3,9 +3,6 @@
 #Importar libreria Tkinter | Import Tkinter library
 from tkinter import *
 
-#Importar libreria time | Import time library
-import time
-
 #Variable para posicionar la entrada de Texto | Variable to position the Text entry
 i = 0
 
