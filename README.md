@@ -22,4 +22,8 @@ This project is a program made in Python that implements a basic calculator with
 ## Development tools
 - Python
 
+-----------------------------------------
 
+<p align="center" >
+<img width="700px" height="500px" style="margin: 10px" src="./calculator.png"> 
+</p>
