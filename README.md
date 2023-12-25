@@ -49,5 +49,5 @@ This project is under the MIT license. Check the `LICENSE` file for more details
 -----------------------------------------
 
 <p align="center" >
-<img width="260px" height="340px" style="margin: 10px" src="./calculator.png"> 
+<img width="260px" height="340px" style="margin: 10px" src="./Calculator.png"> 
 </p>
