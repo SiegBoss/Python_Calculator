@@ -11,7 +11,7 @@ Este proyecto es una calculadora básica implementada en Python con una interfaz
 
 El proyecto consta de los siguientes archivos:
 
-- `calculator.py`: Este es el archivo principal que contiene todo el código de la calculadora.
+- `Calculator.py`: Este es el archivo principal que contiene todo el código de la calculadora.
 
 ## Requisitos
 
@@ -36,7 +36,7 @@ This project is a basic calculator implemented in Python with a user-friendly in
 
 The project consists of the following files:
 
-- `calculator.py`: This is the main file that contains all the code for the calculator.
+- `Calculator.py`: This is the main file that contains all the code for the calculator.
 
 ## Requirements
 
