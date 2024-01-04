@@ -6,6 +6,11 @@ from tkinter import *
 # Variable para posicionar la entrada de Texto | Variable to position the Text entry
 text_position = 0
 
+
+#--------------------------------------------------------------
+
+
+#----------------
 # Funcion detecta que boton se presiona | Function detects which button is pressed
 def clic(data):
     
@@ -23,12 +28,21 @@ def clic(data):
 
     return
 
+#----------------
+
+
+#----------------
+
 # Funcion para borrar | Function to delete
 def delete():
     
     # Borrar la entrada de Texto | Delete the Text entry
     entry_equation.delete(0, END)
 
+#----------------
+
+
+#----------------
 
 # Funcion para resolver la operacion | Function to solve the operation
 def solve():
@@ -49,6 +63,8 @@ def solve():
 
     # Imprimir el resultado | Print the result
     entry_equation.insert(0, result)
+
+#----------------
 
 
 #--------------------------------------------------------------
