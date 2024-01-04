@@ -50,6 +50,9 @@ def solve():
     # Imprimir el resultado | Print the result
     entry_equation.insert(0, result)
 
+
+#--------------------------------------------------------------
+
 # Crear la ventana | Create the window
 window = Tk()
 
@@ -307,3 +310,5 @@ button19.grid(row=4, column=3, padx=5, pady=5)
 
 # Loop para que funcione la aplicacion | Loop for the application to work
 window.mainloop()
+
+#--------------------------------------------------------------
