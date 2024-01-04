@@ -11,6 +11,7 @@ def clic(data):
     
     # Borrar el mensaje de error | Delete the error message
     if entry_equation.get() == "Error":
+        
         entry_equation.delete(0, END)
 
     global text_position
@@ -27,9 +28,6 @@ def delete():
     
     # Borrar la entrada de Texto | Delete the Text entry
     entry_equation.delete(0, END)
-
-    # Reiniciar la variable para posicionar la entrada de Texto | Restart the variable to position the Text entry
-    i = 0
 
 
 # Funcion para resolver la operacion | Function to solve the operation
@@ -52,8 +50,6 @@ def solve():
     # Imprimir el resultado | Print the result
     entry_equation.insert(0, result)
 
-    i = 0
-
 # Crear la ventana | Create the window
 window = Tk()
 
@@ -66,7 +62,7 @@ window.configure(background="#adb5bd")
 # background="#d9d9d9" : color de fondo | background color
 # bd=4 : borde | border
 # relief="ridge" : relieve | relief
-# font=("Montserrat 20") : fuente y tamaño | font and size
+# font=("Arial, 20") : fuente y tamaño | font and size
 entry_equation = Entry(
     window, background="#6c757d", bd=4, relief="ridge", font=("Arial, 20")
 )
